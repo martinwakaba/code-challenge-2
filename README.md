@@ -21,9 +21,9 @@ The provided style.css file adds a pleasant visual design to the web app, making
 
 
 **Author**
-This Flatacuties web app is created by Martin Wakaba. If you have any questions or suggestions, feel free to reach out to [your email address].
+This Flatacuties web app is created by Martin Wakaba. If you have any questions or suggestions, feel free to reach out to.
 
-Enjoy exploring the Flatacuties! 🐾
+Enjoy exploring the Flatacuties!
 
 
 
