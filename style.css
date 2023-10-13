@@ -21,11 +21,12 @@ html {
   
   #data {
     height: 15vh;
-    background: rgb(241, 142, 178);
+    background: rgb(142, 216, 241);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding-bottom: 3vh;
+    cursor: pointer;
   }
   
   #data span {
@@ -63,4 +64,8 @@ html {
   #image{
     width: 400px;
     height: 300px;
+  }
+ h4{
+    font-size: 40px;
+    color: rgb(220, 97, 165);
   }
