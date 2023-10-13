@@ -34,7 +34,7 @@ let baseURL = 'http://localhost:3000/characters'
 
                 //submit event for the votes
                 votesForm.addEventListener('submit', (event) =>{
-                    event.preventDefault()// reset to default
+                    event.preventDefault()// stops reset to default
                     let newVote = parseInt(votes.value, 10)
                     currentVote = currentVote + newVote;
                     characterVotes.textContent = currentVote;
